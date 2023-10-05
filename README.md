@@ -9,6 +9,6 @@ no intervalo I=[-2,0] e £< 10^-3 -------------------- £= ERRO
 
 O exercicio pode se realizafo na linguagem escolhida pelo aluno
 Entrega: Dia da NP2
-> Nome
-> Código
-> Saída
+- Nome
+* Código
++ Saída
