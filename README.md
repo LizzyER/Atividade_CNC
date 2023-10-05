@@ -1,7 +1,7 @@
 # Atividade_CNC
 ### atividade de calculo numerico
 
-Ultilizabdo o metodo da Bissecçaõ, encontre a raiz da função
+Ultilizabdo o metodo da Bissecção, encontre a raiz da função
 
               F(x)= e^x - x - 2 
               
